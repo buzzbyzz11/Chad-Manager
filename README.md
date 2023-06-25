@@ -2,7 +2,8 @@
 <body>
   <h1>Chad Manager</h1>
 
-  <img src="</p>![chadmanager finished](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/931d0115-968c-479c-a4fa-7cc8515f4249)" alt="Chad Manager Logo">
+  ![chadmanager finished](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/81c22097-8f5c-4895-b1bf-066a8702f6db)
+
 
   <h2>Features</h2>
   <ul>
