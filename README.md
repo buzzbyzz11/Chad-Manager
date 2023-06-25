@@ -2,7 +2,7 @@
 <body>
   <h1>Chad Manager</h1>
 
-  <img src="https://example.com/chad-manager-logo.png" alt="Chad Manager Logo">
+  <img src="</p>![chadmanager finished](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/931d0115-968c-479c-a4fa-7cc8515f4249)" alt="Chad Manager Logo">
 
   <h2>Features</h2>
   <ul>
@@ -34,6 +34,7 @@
   <p>Chad Manager is released under the <a href="https://github.com/chad-manager/chad-manager/blob/main/LICENSE">MIT License</a>. You are free to use, modify, and distribute this tool in compliance with the license terms.</p>
 
   <h2>Acknowledgements</h2>
-  <p>Chad Manager would like to express its gratitude to the modding community, whose creativity and passion continue to push the boundaries of virtual reality experiences. Special thanks to all the contributors, supporters, and testers who have helped make this project possible.</p>
+  <p>Chad Manager would like to express its gratitude to the modding community, whose creativity and passion continue to push the boundaries of virtual reality experiences. Special thanks to all the contributors, supporters, and testers who have helped make this project possible.
+
 </body>
 </html>
