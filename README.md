@@ -10,7 +10,6 @@
     <li><strong>Mod Management:</strong> Chad Manager simplifies the installation and management of mods for both Quest and PCVR platforms.</li>
     <li><strong>Easy Configuration:</strong> With an intuitive user interface, Chad Manager makes modding accessible to all users.</li>
     <li><strong>Quest Headset Modding:</strong> Unlock the full potential of your Quest headset with Chad Manager's dedicated tools.</li>
-    <li><strong>Vibrant Community:</strong> Chad Manager brings together a thriving modding community.</li>
   </ul>
 
   <h2>Installation</h2>
