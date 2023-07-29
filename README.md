@@ -2,7 +2,8 @@
 <body>
   <h1>🌌Chad Manager🌌</h1>
 
-  ![chadmanager finished](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/81c22097-8f5c-4895-b1bf-066a8702f6db)
+![242264509-6165d9d6-21da-4e0b-913e-89de3f3431fa](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/cefddfe0-7ab4-47d8-9cb9-c7c9daef0239)
+
 
 
   <h2>Features</h2>
