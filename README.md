@@ -1,6 +1,6 @@
 </head>
 <body>
-  <h1>Chad Manager</h1>
+  <h1>🌌Chad Manager🌌</h1>
 
   ![chadmanager finished](https://github.com/buzzbyzz11/Chad-Manager/assets/48888105/81c22097-8f5c-4895-b1bf-066a8702f6db)
 
