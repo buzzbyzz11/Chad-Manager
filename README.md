@@ -12,7 +12,7 @@
     <li><strong>Quest Headset Modding:</strong> Unlock the full potential of your Quest headset with Chad Manager's dedicated tools.</li>
   </ul>
 
-  <h2>Installation</h2>
+  <h2>✅Installation✅</h2>
   <ol>
     <li>Visit the <a href="https://github.com/chad-manager/chad-manager">Chad Manager GitHub repository</a>.</li>
     <li>Clone or download the repository to your local machine.</li>
@@ -20,7 +20,7 @@
     <li>Launch Chad Manager and prepare to embark on an exciting modding journey!</li>
   </ol>
 
-  <h2>Contributing</h2>
+  <h2>🙋Contributing🙋</h2>
   <p>Chad Manager is an open-source project, and contributions from the community are highly encouraged. Join the <a href="https://discord.gg/chad-manager">Chad Manager Discord server</a> to connect with the community and learn more about how you can contribute.</p>
 
   <h2>Support</h2>
